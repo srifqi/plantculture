@@ -5,6 +5,7 @@ Plant culture mod for Minetest
 
 ##License
 For code: CC0 1.0 Universal (http://creativecommons.org/publicdomain/zero/1.0/)
+
 For texture: CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
 
 ##plantculture API
